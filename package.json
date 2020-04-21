@@ -1,0 +1,29 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "description": "Minha Primeira Aplicação Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dns": "^0.2.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "mariadb": "^2.3.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.2",
+    "sequelize": "^5.21.5",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wburlani/aplications/node/my_package.git"
+  },
+  "author": "Willian Burlani",
+  "license": "ISC"
+}
